@@ -4,13 +4,13 @@ int main()
 {
     int a;
     int b;
-    int soma;
+    int prod;
     
     scanf("%d",&a);
     scanf("%d",&b);
     
-    soma = a * b;
-    printf("PROD = %d\n",soma);
+    prod = a * b;
+    printf("PROD = %d\n",prod);
 
     return 0;
 }
