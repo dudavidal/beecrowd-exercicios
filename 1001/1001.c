@@ -1,4 +1,4 @@
-#include <cstdio>
+#include <stdio.h>
 
 int main(){
     int a;
@@ -8,7 +8,7 @@ int main(){
     scanf("%d", &b);
 
     int x = a + b;
-    printf("X = %d\n", x);  // Note o \n aqui para pular linha
+    printf("X = %d\n", x);  
 
     return 0;
 }
