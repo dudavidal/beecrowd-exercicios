@@ -9,18 +9,18 @@
 ## 📚 Sobre o Repositório
 
 Este repositório foi criado para treinar e praticar os exercícios do **Beecrowd**, focando em soluções nas linguagens **C** e **Python**.  
-O objetivo é fortalecer meus conhecimentos para maratonas de programação, começando pelos problemas mais simples e indo evoluindo.
+O objetivo é fortalecer meus conhecimentos sobre essas linguagens, começando pelos problemas mais simples e indo evoluindo.
 
 
 ---
 
 ## 💡 Objetivo
 
-Estou estudando para melhorar minha lógica, entender estruturas de dados básicas e ganhar agilidade na resolução de problemas para competições futuras.  
+Estou estudando para melhorar minha lógica, entender estruturas de dados básicas e ganhar agilidade na resolução de problemas.  
 A prioridade é usar:
 
-- **C** com a biblioteca `<cstdio>`, pois é bastante utilizado em competições e maratonas.  
-- **Python** para praticar uma linguagem mais expressiva e rápida para testes.
+- **C**
+- **Python**
 
 ---
 
@@ -28,7 +28,7 @@ A prioridade é usar:
 
 | Item            | Detalhes                      |
 |-----------------|------------------------------|
-| Linguagens      | C (com `<cstdio>`) e Python  |
+| Linguagens      | C  e Python  |
 | IDEs            | Dev C++ (para C) e VSCode    |
 | Plataforma      | Windows                      |
 
