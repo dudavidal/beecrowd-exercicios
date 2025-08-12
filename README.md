@@ -2,40 +2,30 @@
   🌸 👩‍💻 🤓
 </p>
 
-# 🚀Beecrowd - Exercícios em C e Python
+# 🚀 Beecrowd - Exercícios em C e Python
 
----
-
-## 📚 Sobre o Repositório
-
-Este repositório foi criado para treinar e praticar os exercícios do **Beecrowd**, focando em soluções nas linguagens **C** e **Python**.  
-O objetivo é fortalecer meus conhecimentos sobre essas linguagens, começando pelos problemas mais simples e indo evoluindo.
-
-
----
+## 📚 Sobre
+Repositório para treinar lógica e resolver exercícios do **Beecrowd**, usando **C** e **Python**.  
+Começo pelos problemas mais simples e avanço gradualmente.
 
 ## 💡 Objetivo
+- Melhorar lógica de programação  
+- Praticar estruturas de dados básicas  
+- Ganhar agilidade na resolução de problemas  
 
-Estou estudando para melhorar minha lógica, entender estruturas de dados básicas e ganhar agilidade na resolução de problemas.  
-A prioridade é usar:
+## 🛠️ Tecnologias
+- **C** → Dev C++  
+- **Python** → VSCode  
+- **SO** → Windows  
 
-- **C**
-- **Python**
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-| Item            | Detalhes                      |
-|-----------------|------------------------------|
-| Linguagens      | C  e Python  |
-| IDEs            | Dev C++ (para C) e VSCode    |
-| Plataforma      | Windows                      |
-
----
-
-## 📂 Estrutura do Repositório
-
-Os exercícios estão organizados por número de problema, com pastas que contêm as soluções em C e Python
-
-
+## 📂 Estrutura
+Os exercícios estão organizados por categoria do Beecrowd:  
+-  [Iniciante](./01-iniciante)
+- **Ad-Hoc**  
+- **Strings**  
+- **Estruturas e Bibliotecas**  
+- **Matemática**  
+- **Paradigmas**  
+- **Grafos**  
+- **Geometria Computacional**  
+- **SQL**
