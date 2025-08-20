@@ -2,30 +2,41 @@
   🌸 👩‍💻 🤓
 </p>
 
-# 🚀 Beecrowd - Exercícios em C e Python
+# 🚀 Beecrowd - Exercícios em C, C++ e Python  
 
-## 📚 Sobre
-Repositório para treinar lógica e resolver exercícios do **Beecrowd**, usando **C** e **Python**.  
-Começo pelos problemas mais simples e avanço gradualmente.
+![Status](https://img.shields.io/badge/status-em%20progresso-yellow)   ![Linguagens](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)   ![Linguagens](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)   ![Linguagens](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-## 💡 Objetivo
-- Melhorar lógica de programação  
-- Praticar estruturas de dados básicas  
-- Ganhar agilidade na resolução de problemas  
+---
 
-## 🛠️ Tecnologias
-- **C** → Dev C++  
+## 📚 Sobre  
+Repositório criado para treinar lógica de programação e resolver exercícios do **Beecrowd**, usando **C**, **C++** e **Python**.  
+Começo pelos problemas mais simples e avanço gradualmente.  
+
+---
+
+## 💡 Objetivo  
+- 📈 Melhorar lógica de programação  
+- 🧩 Praticar estruturas de dados básicas  
+- ⚡ Ganhar agilidade na resolução de problemas  
+
+---
+
+## 🛠️ Tecnologias  
+- **C / C++** → Dev C++  
 - **Python** → VSCode  
-- **SO** → Windows  
+- **Sistema Operacional** → Windows  
 
-## 📂 Estrutura
+---
+
+## 📂 Estrutura do Repositório  
 Os exercícios estão organizados por categoria do Beecrowd:  
--  [Iniciante](./01-iniciante)
-- **Ad-Hoc**  
-- **Strings**  
-- **Estruturas e Bibliotecas**  
-- **Matemática**  
-- **Paradigmas**  
-- **Grafos**  
-- **Geometria Computacional**  
-- **SQL**
+
+- 📘 [Iniciante](./01-iniciante)  
+- 🎲 Ad-Hoc  
+- 🔤 Strings  
+- 🗂️ Estruturas e Bibliotecas  
+- ➗ Matemática  
+- 🔎 Paradigmas  
+- 🕸️ Grafos  
+- 📐 Geometria Computacional  
+- 🗄️ SQL  
